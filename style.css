@@ -1,0 +1,84 @@
+body{
+    background-color:#003566;
+    background-image: url('https://images.unsplash.com/photo-1618123069754-cd64c230a169?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#header{
+    color:#ffffff;
+    font-style:normal;
+    font-family:"Sedgwick Ave Display", "Baloo", "Swanky and Moo Moo", Arial;
+    letter-spacing: 0.2em;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 3em;
+    text-shadow: 2px 2px 8px #daddd8;
+}
+
+.banner1{
+    background-color: #daddd8;
+    border-style:solid;
+    border-color:#660708;
+    border-width: 5px;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 40em;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    width: 30%;
+}
+
+#description1{
+    font-family: "Space Mono", Arial;
+    color:#a4161a;
+    font-size: 25px;
+    text-align: center;
+}
+
+ol.list1 {
+    list-style:lower-alpha;
+    margin-left: 25px;
+    font-size: 20px;
+    font-family: "Saira", "Swanky and Moo Moo", "Baloo", Arial;
+    color:#941b0c;
+}
+
+.banner2{
+    background-color: #1c1c1c;
+    border-style:double;
+    border-color: #daddd8;
+    border-width: 3.5px;
+    border-radius: 25px;
+    padding: 10px;
+    width:30%;
+    margin-left: 40em;
+}
+
+#description2{
+    font-family: "Space Mono", Arial;
+    color:#daddd8;
+    font-size: 25px;
+    text-align: center;
+}
+
+ul.list2 {
+    list-style:lower-alpha;
+    margin-left: 25px;
+    font-size: 20px;
+    font-family: "Saira", 'Times New Roman', Times;
+    color:#fffcf2
+}
+
+.italic_text{
+    font-style: italic;
+}
+
+.highlight1{
+    color:steelblue;
+}
+
+.highlight2{
+    color:steelblue;
+}
